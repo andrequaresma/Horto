@@ -1,0 +1,77 @@
+#topo{
+    font-family: cursive;
+    font-size: 45px;
+    background: #BDB76B;
+    color: #2F4F4F;
+    border-color: #2F4F4F;
+    border-width: 10px;
+    border-style: solid;
+}
+
+#menu{
+    font-family: cursive, sans-serif;
+    font-size: 15px;
+    background: #BDB76B;
+    color: #2F4F4F;
+    border-color: #2F4F4F;
+    border-width: 5px;
+    border-style: solid;
+    text-align: center;
+}
+
+#borda{
+    border-color: #2F4F4F;
+    border-width: 5px;
+    border-style: solid;
+    text-align: justify;
+}
+
+.texto{
+    border-width: 12px;
+    border-style: hidden;
+    font-family: cursive, sans-serif;
+    font-size: 12px;
+}
+
+#fonte-referencia{
+    text-align: center;
+    font-size: 8px;
+    font-family: cursive;
+}
+
+.img {
+    width: auto;
+    height: auto;
+    align-self: center;
+    display: inline-block;
+    border-style: solid;
+    border-width: 10px;
+    border-color: #2F4F4F;
+}
+
+#legenda{
+    text-align: center;
+    font-family: cursive;
+    font-size: 10px;
+    background: #BDB76B;
+    color: #2F4F4F;
+    border-color: #2F4F4F;
+    border-width: 5px;
+    border-style: solid;
+}
+.form{
+    width: 100%;
+    align-content: center;
+    text-align: justify;
+    align-items: center;
+    margin: 0 auto;
+    display: flex;
+}
+
+#rodape{
+    font-size: 12px;
+    font-family: Copperplate Gothic, sans-serif;
+    background: #6702af	;
+    color: white;
+    text-align: center;
+}
